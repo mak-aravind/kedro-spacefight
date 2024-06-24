@@ -1,0 +1,2 @@
+#conf/base/parameters.yml
+preprocessed_companies_filepath: ${globals:preprocessed_companies_filepath}

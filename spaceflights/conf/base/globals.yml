@@ -1,0 +1,2 @@
+#conf/base/globals.yml
+preprocessed_companies_filepath: "data/02_intermediate/preprocessed_companies.pq"
